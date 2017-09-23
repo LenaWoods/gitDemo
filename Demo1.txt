@@ -1,5 +1,6 @@
 Hello Demo
 zhouyan 刘帅
+<<<<<<< HEAD
 
 
 
@@ -18,3 +19,6 @@ zhouyan 刘帅
 
 
 哈哈哈飞哥报道
+=======
+xiaoming  小明
+>>>>>>> 8c085a2e40e3006039c290e224d8ff417bf837f3
